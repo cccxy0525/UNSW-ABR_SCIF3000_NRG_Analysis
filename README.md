@@ -3,14 +3,17 @@ An analytical companion to the SCIF3000 Australian BioResources (ABR) feasibilit
 
 This is an exploratory scenario model, not evidence that an ABR NRG launch is commercially viable. ABR demand, breeding yields, ongoing production costs, customer substitution and an approved ABR NRG price have not been supplied.
 
-## Files and folder layout
-ABR_NRG_template/
+
+## Files and Folder Structure
+
+```text
+ABR_NRG_Analysis/
 ├── README.md
 ├── requirements.txt
 ├── SCIF3000_ABR_NRG_Analysis.ipynb
 ├── SCIF3000_Dataset.xlsx
 ├── medical-research-future-fund-mrff-grant-recipients_0.xlsx
-└── outputs/                         # Created or updated when the notebook runs
+└── outputs/
     ├── ABR_NRG_analysis_tables.xlsx
     ├── fig_nsg_abr_vs_ozgene.png
     ├── fig3_price_regression.png
@@ -19,3 +22,5 @@ ABR_NRG_template/
     ├── fig1_nhmrc.png
     ├── fig2_mrff.png
     └── fig_garvan.png
+```
+  
