@@ -136,8 +136,6 @@ These margins are not estimated from ABR's internal financial records. The calcu
 
 Garvan's consolidated financial information provides organisational context but does not establish ABR's available cash, allocated investment budget or capacity to finance an NRG launch.
 
-## Data Sources
-
 
 ## Data Sources
 
@@ -154,8 +152,6 @@ Garvan's consolidated financial information provides organisational context but 
 
 - [Australian National Audit Office (2021), *Audits of the Financial Statements of Australian Government Entities for the Period Ended 30 June 2021*](https://www.anao.gov.au/work/financial-statement-audit/audits-the-financial-statements-australian-government-entities-the-period-ended-30-june-2021). Accessed 7 November 2026.
 - [NHMRC (2021), *Annual Report 2020–21*](https://www.nhmrc.gov.au/about-us/publications/annual-report-2020-21). Accessed 7 November 2026.
-
-**Data usage note:** The pricing data and project-specific datasets may be subject to third-party ownership or confidentiality restrictions. Access and redistribution should follow the applicable permissions.
 
 Project-specific and third-party data must only be redistributed where permission has been obtained.
 
