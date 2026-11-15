@@ -1,4 +1,4 @@
-# UNSW&ABR_SCIF3000_NRG_Analysis
+# UNSW & ABR - SCIF3000 NRG Analysis
 An analytical companion to the SCIF3000 Australian BioResources (ABR) feasibility report. The notebook compares supplied mouse price schedules, constructs an illustrative NRG pricing benchmark, estimates initial establishment costs, and explores sales-volume scenarios. It also plots research-funding and Garvan financial context.
 
 This is an exploratory scenario model, not evidence that an ABR NRG launch is commercially viable. ABR demand, breeding yields, ongoing production costs, customer substitution and an approved ABR NRG price have not been supplied.
